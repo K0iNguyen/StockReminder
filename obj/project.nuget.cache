@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJKBwe9DpoE=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\App\\StockReminder\\StockReminder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
